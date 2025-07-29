@@ -28,19 +28,9 @@ This is my personal portfolio site, built to showcase my projects, skills, and j
 
 ---
 
-## 📸 Live Preview
-
-[Live Demo](https://pluginpalate.github.io/portfolio/)
-
-
----
-
 ## 🧠 Philosophy
 
 > This site was designed with clean UI/UX principles and human psychology in mind —  
 > Calm colors, clear hierarchy, smooth interactions, and fast loading.
 
 ---
-
-## 🧩 Folder Structure
-
