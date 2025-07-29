@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44fdd838-42c9-4cfe-b199-4ffb51cf02ec" />
+
 # 🌐 pluginpalate.dev — Personal Portfolio Website
 
 Hi! I'm pluginpalate — a passionate 16-year-old frontend developer from Türkiye 🇹🇷  
