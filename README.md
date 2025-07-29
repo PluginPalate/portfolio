@@ -30,8 +30,7 @@ This is my personal portfolio site, built to showcase my projects, skills, and j
 
 ## 📸 Live Preview
 
-🔗 [Live Demo](https://your-username.github.io/portfolio)  
-*(replace with actual live URL)*
+🔗 [Live Demo](https://PluginPalate.github.io/portfolio)  
 
 ---
 
